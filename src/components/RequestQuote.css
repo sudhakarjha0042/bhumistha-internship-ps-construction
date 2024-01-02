@@ -1,0 +1,105 @@
+.image-1-icon7 {
+  position: absolute;
+  top: -217px;
+  left: 0;
+  width: 1440px;
+  height: 584px;
+  object-fit: cover;
+}
+.looking-for-a-container7 {
+  position: relative;
+  line-height: 46px;
+  display: inline-block;
+  width: 713px;
+  flex-shrink: 0;
+  text-shadow: var(--dp-key-shadow-umbra);
+}
+.text-content34 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.requeste-a-quote5 {
+  flex: 1;
+  position: relative;
+  line-height: 25px;
+}
+.requeste-a-quote-wrapper3 {
+  flex: 1;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.button-arrow108 {
+  position: relative;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.button-arrow-wrapper44,
+.buttonfab23 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.button-arrow-wrapper44 {
+  flex: 1;
+  flex-shrink: 0;
+  justify-content: flex-end;
+}
+.buttonfab23 {
+  border-radius: var(--br-81xl);
+  background-color: var(--primary);
+  width: 355px;
+  justify-content: flex-start;
+  padding: var(--padding-sm) var(--padding-13xl);
+  box-sizing: border-box;
+}
+.buttonfab-wrapper5,
+.section-content7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.buttonfab-wrapper5 {
+  align-self: stretch;
+  font-size: var(--body-1-monteserrat-16-size);
+  color: var(--on-primary);
+}
+.section-content7 {
+  position: absolute;
+  height: calc(100% - 147px);
+  width: calc(100% - 1225px);
+  top: 111px;
+  right: 1118px;
+  bottom: 36px;
+  left: 107px;
+  gap: var(--gap-31xl);
+}
+.video-section6 {
+  align-self: stretch;
+  position: relative;
+  height: 367px;
+  background-image: url(/public/video-section@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.section-104 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  text-align: left;
+  font-size: var(--font-size-16xl);
+  color: var(--primary-container);
+  font-family: var(--subtitle-2-poppins-20);
+}
